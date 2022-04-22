@@ -23,12 +23,13 @@
  <img src="https://img.shields.io/badge/Docker-2496ED??style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
 
-
+<br>
+<br>
+<br>
 
 <div align=center>
  <h1>⭐github Stats⭐</h1>
- </div>
-<div align=center>
+</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani703)](https://github.com/mani703/github-readme-stats)
- </div
+
 
