@@ -7,12 +7,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1??style=for-the-badge&logo=MySQL&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1??style=for-the-badge&logo=PostgreSQL&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248??style=for-the-badge&logo=MongoDB&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=Linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED??style=for-the-badge&logo=Docker&logoColor=black)
 </div> 
 
-<pre>
-<code>
-<div align=center>
+```html
+<h1>gi</h1>
+```
 # ⭐github Stats⭐
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani703)](https://github.com/mani703/github-readme-stats)
-</div>
-<code>
-<pre>
+
 
