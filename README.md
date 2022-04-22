@@ -34,6 +34,11 @@
  <h1>⭐github Stats⭐</h1>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani703&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mani703&layout=compact)
+<a href="https://github.com/mani703">
+  <img src="https://github-readme-stats.vercel.app/api?username=mani703&count_private=true&theme=radical&show_icons=true" height="180" />
+</a>
+<a href="https://github.com/mani703">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani703&layout=compact&langs_count=8&&theme=radical" height="180" />
+</a>
 
 
