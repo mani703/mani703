@@ -12,8 +12,9 @@
 # ⭐github Stats⭐
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani703)](https://github.com/mani703/github-readme-stats)
 
-
+<div align=center>
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
+ </div
 
