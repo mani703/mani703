@@ -32,13 +32,12 @@
 
 <div align=center>
  <h1>⭐github Stats⭐</h1>
-</div>
 
-<a href="https://github.com/mani703" align="center">
+<a href="https://github.com/mani703" >
   <img src="https://github-readme-stats.vercel.app/api?username=mani703&count_private=true&show_icons=true" height="180" />
 </a>
-<a href="https://github.com/mani703" align="center">
+<a href="https://github.com/mani703">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani703&layout=compact&langs_count=8&&" height="180" />
 </a>
-
+</div>
 
