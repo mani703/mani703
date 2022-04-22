@@ -4,7 +4,7 @@
 # 🔥 Tech Stack🔥
 
 <div align=center>
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-007396??style=for-the-badge&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
  </div>
  
