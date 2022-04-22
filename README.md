@@ -31,7 +31,7 @@
 <br>
 
 <div align=center>
- <h1>⭐Github Stats & Languages⭐</h1>
+ <h1>⭐Github Stats⭐</h1>
 
 <a href="https://github.com/mani703" >
   <img src="https://github-readme-stats.vercel.app/api?username=mani703&count_private=true&show_icons=true" height="180" />
