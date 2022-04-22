@@ -25,7 +25,9 @@
 
 
 
-# ⭐github Stats⭐
+<div align=center>
+ <h1>⭐github Stats⭐</h1>
+ </div>
 <div align=center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani703)](https://github.com/mani703/github-readme-stats)
  </div
