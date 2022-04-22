@@ -3,6 +3,7 @@
 <div align=center>
  <h1>🔥Tech Stack🔥</h1>
  </div>
+ 
 <div align=center>
  <img src="https://img.shields.io/badge/Java-007396??style=for-the-badge&logo=Java&logoColor=black"/>
  <img src="https://img.shields.io/badge/jQuery-0769AD??style=for-the-badge&logo=jQuery&logoColor=black"/>
@@ -30,6 +31,7 @@
 <div align=center>
  <h1>⭐github Stats⭐</h1>
 </div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani703)](https://github.com/mani703/github-readme-stats)
 
 
