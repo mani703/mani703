@@ -30,6 +30,6 @@
 <div align=center>
  <h1>⭐github Stats⭐</h1>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani703)](https://github.com/mani703/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mani703)](https://github.com/mani703/github-readme-stats)]
 
 
