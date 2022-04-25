@@ -21,7 +21,7 @@
  
  <img src="https://img.shields.io/badge/MySQL-4479A1??style=for-the-badge&logo=MySQL&logoColor=black"/>
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1??style=for-the-badge&logo=PostgreSQL&logoColor=black"/>
- <img src="https://img.shields.io/badge/MongoDB-47A248??style=for-the-badge&logo=MongoDB&logoColor=black"/>
+ <img src="https://img.shields.io/badge/MongoDB-47A248??style=for-the-badge&logo=MongoDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=Linux&logoColor=black"/>
  <img src="https://img.shields.io/badge/Docker-2496ED??style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
